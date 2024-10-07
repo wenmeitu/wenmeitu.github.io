@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcom to my personal website! I am a Ph.D. candidate in the Department of Economics at McGill University. My research interests are in the fields of **Health Economics**, **Energy Economics** and **Environmental Economics**. I will be on the job market in the 2024-2025 academic year.
+Welcome to my personal website! I am a Ph.D. candidate in the Department of Economics at McGill University. My research interests are in the fields of **Health Economics**, **Energy Economics** and **Environmental Economics**. I will be on the job market in the 2024-2025 academic year.
 
 ## Job Market Paper
 
