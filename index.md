@@ -10,7 +10,7 @@ Welcome to my personal website! I am a Ph.D. candidate in the Department of Econ
 
 - **"Household Heating Fuel Choice and Behaviours: Evidence from Rural China"** 
 - **Description:** This paper investigates the dynamics of heating fuel choices among rural households during the mandatory coal to electricity transition program in rural Beijing.
-- [PDF](assets/files/curriculum_vitae.pdf)
+- [PDF](assets/files/JMP.pdf)
 
 
 ## Other Research Papers
